@@ -1,7 +1,4 @@
-function logThis() {
-    this.desc = "logger"
-    console.log(this);
-}
-logThis()
-
-const num = 9053566612
+let myArray = [1, 2, 3, 4]
+myArray.pop();
+myArray.length = 0
+console.log(myArray);
