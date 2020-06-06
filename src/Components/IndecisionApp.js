@@ -77,6 +77,7 @@ export default class IndecisionApp extends React.Component {
                         handleDeleteSelectedOption={this.handleDeleteSelectedOption}
                     />
                 </div>
+                <a href="https://yorm.ca/">Return to Portfolio</a>
                 
                 </div>
             </div>
